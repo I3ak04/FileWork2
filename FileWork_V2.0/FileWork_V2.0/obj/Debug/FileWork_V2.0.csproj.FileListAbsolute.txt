@@ -1,0 +1,7 @@
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\obj\Debug\FileWork_V2.0.csproj.AssemblyReference.cache
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\obj\Debug\FileWork_V2.0.csproj.CoreCompileInputs.cache
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\bin\Debug\FileWork_V2.0.exe.config
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\bin\Debug\FileWork_V2.0.exe
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\bin\Debug\FileWork_V2.0.pdb
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\obj\Debug\FileWork_V2.0.exe
+E:\VSPoject\FileWork_V2.0\FileWork_V2.0\obj\Debug\FileWork_V2.0.pdb
